@@ -7,6 +7,25 @@
       <h1 class="section">Work Experience</h1>
       <br />
       <h2>
+        Software Engineer (Computer Vision) @
+        <a href="https://www.neurobittech.com/"
+          >Neurobit Technologies</a
+        >
+      </h2>
+      <p>Taiwan 6/2022 ~ 8/2022, 12/2022 ~ now</p>
+      <ul>
+        <li>
+          Research on models that perform realtime pupil center, eye gaze, and eye torsional predictions on grayscale images.
+        </li>
+        <li>
+          Create GUI for organizing and curating for the Neurobit NSS_dataset. 
+        </li>
+        <li>
+          Setup and maintain the server.
+        </li>
+      </ul>
+      <br />
+      <h2>
         Frontend Developer @
         <a href="https://www.alliancetgl.com/"
           >Alliance Technology Global Limited</a

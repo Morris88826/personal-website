@@ -3,7 +3,7 @@
     <a-layout-header>
       <a-menu mode="horizontal" :style="{ lineHeight: '64px' }">
         <router-link :to="{ name: 'home' }">
-          <a-menu-item key="1">Mu-Reui, Tseng</a-menu-item>
+          <a-menu-item key="1">Mu-Ruei, Tseng</a-menu-item>
         </router-link>
         <router-link :to="{ name: 'projects' }">
           <a-menu-item key="2">Projects</a-menu-item>
@@ -28,7 +28,7 @@
     <div class="row" v-if="collapse" style="margin-top: 25px">
       <div class="col-3" style="margin: auto; text-align: center">
         <img
-          src="../assets/profile.jpg"
+          src="../assets/profilePic.jpg"
           style="border-radius: 50%; width: 70%"
         />
       </div>
@@ -36,7 +36,10 @@
         <div>
           <p style="margin-bottom: 0px"><b>Mu-Ruei Tseng (Morris)</b></p>
           <p style="font-size: 10px">
-            <b>BS COSC+AM/ROBO student at HKUST</b>
+            <b>BS COSC+AM/ROBO student at HKUST (2017~2021)</b>
+          </p>
+          <p style="font-size: 10px">
+            <b>MS Computer Science at Texas A&M (2023~)</b>
           </p>
 
           <p
@@ -87,7 +90,7 @@
       <div class="col-3" v-if="!collapse">
         <div class="row">
           <img
-            src="../assets/profile.jpg"
+            src="../assets/profilePic.jpg"
             style="
               margin-top: 50px;
               margin-left: auto;
@@ -99,7 +102,12 @@
         </div>
         <div style="margin-top: 20px; margin-left: 20px">
           <p style="margin-bottom: 0px"><b>Mu-Ruei Tseng (Morris)</b></p>
-          <p style="font-size: 10px"><b>BS COSC+AM/ROBO student at HKUST</b></p>
+          <p style="font-size: 10px">
+            <b>BS Computer Science and Mathematics, minor Robotics at HKUST (2017~2021)</b>
+          </p>
+          <p style="font-size: 10px">
+            <b>MS Computer Science at Texas A&M (2023~)</b>
+          </p>
 
           <br />
           <p
