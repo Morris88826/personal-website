@@ -21,7 +21,7 @@
       <h3>Natural Languages</h3>
       <ul>
         <li>Mandarin (Native)</li>
-        <li>English (TOEFL 109, 2021)</li>
+        <li>English (TOEFL 109, 2021) (GRE 321, 2021)</li>
       </ul>
 
       <br />

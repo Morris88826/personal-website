@@ -15,7 +15,7 @@
       <p>Taiwan 6/2022 ~ 8/2022, 12/2022 ~ now</p>
       <ul>
         <li>
-          Research on models that perform realtime pupil center, eye gaze, and eye torsional predictions on grayscale images.
+          Research on models that perform real time pupil center, eye gaze, and eye torsional predictions on grayscale images.
         </li>
         <li>
           Create GUI for organizing and curating for the Neurobit NSS_dataset. 
@@ -67,7 +67,7 @@
           HAA4D dataset.
         </li>
         <li>
-          Perform ablation studies and compares the result with state-of-the-
+          Perform ablation studies and compare the result with state-of-the-
           art skeleton-based models such as ST-GCN and Shift-GCN.
         </li>
         <li>
