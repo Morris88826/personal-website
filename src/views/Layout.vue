@@ -28,7 +28,7 @@
     <div class="row" v-if="collapse" style="margin-top: 25px">
       <div class="col-3" style="margin: auto; text-align: center">
         <img
-          src="../assets/profilePic.jpg"
+          src="../assets/profileV2.jpg"
           style="border-radius: 50%; width: 70%"
         />
       </div>
@@ -90,7 +90,7 @@
       <div class="col-3" v-if="!collapse">
         <div class="row">
           <img
-            src="../assets/profilePic.jpg"
+            src="../assets/profileV2.jpg"
             style="
               margin-top: 50px;
               margin-left: auto;
